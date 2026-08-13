@@ -71,7 +71,7 @@
         'CLEAN, K-BEAUTY ROOTS — skin-friendly, paraben-free'
       ],
       reasons: [
-        '"lip stain"같은 검색량이 가장 높은 키워드를 제품명과 불릿에 그대로 반영하면서, 상위 경쟁사 리스팅과 고객 리뷰를 스캔해 "high shine", "hydrating", "color payoff"처럼 반복적으로 등장하는 모디파이어를 추출했습니다.',
+        '"lip stain"같은 검색량이 가장 높은 키워드를 제품명과 불릿에 반영하고, 리뷰를 스캔해 "high shine", "hydrating"처럼 반복 등장하는 키워드를 추출했습니다.',
         '"hydrating lip stain", "korean lip stain"같은 롱테일 키워드를 찾아, 추출한 모디파이어와 함께 각 불릿에 엮어 배치했습니다.',
         '"hyaluronic acid", "peptide" 같은 성분 키워드의 검색량이 높다는 점에서, 성분에 민감한 고객층을 겨냥해 성분명을 불릿에 직접 노출했습니다.'
       ]
